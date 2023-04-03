@@ -44,3 +44,9 @@
     transform: scale(1.02);
     border-radius: 9px;
 }
+.snake{
+    background-color: purple;
+    border: .25vmin solid white;
+    border-radius: 12px;
+}
+

@@ -23,3 +23,5 @@ function main(ctime) {
     lastPaintTime = ctime;
     gameEngine();
 }
+
+function isCollide(snake) {

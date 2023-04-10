@@ -37,3 +37,4 @@ function isCollide(snake) {
     }
         
     return false;
+}

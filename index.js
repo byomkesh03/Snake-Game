@@ -25,3 +25,9 @@ function main(ctime) {
 }
 
 function isCollide(snake) {
+    // If you bump into yourself 
+    for (let i = 1; i < snakeArr.length; i++) {
+        if(snake[i].x === snake[0].x && snake[i].y === snake[0].y){
+            return true;
+        }
+    }

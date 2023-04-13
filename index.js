@@ -73,4 +73,6 @@ function gameEngine(){
 
     snakeArr[0].x += inputDir.x;
     snakeArr[0].y += inputDir.y;
+
+    // Part 2: Display the snake and Food
 }

@@ -38,3 +38,4 @@ function isCollide(snake) {
         
     return false;
 }
+function gameEngine()

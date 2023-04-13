@@ -91,4 +91,6 @@ function gameEngine(){
          }
          board.appendChild(snakeElement);
      });
+
+     
 }

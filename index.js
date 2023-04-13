@@ -38,4 +38,15 @@ function isCollide(snake) {
         
     return false;
 }
-function gameEngine()
+function gameEngine(){
+    // Part 1: Updating the snake array & Food
+    if(isCollide(snakeArr)){
+        gameOverSound.play();
+        musicSound.pause();
+        inputDir =  {x: 0, y: 0}; 
+        alert("Game Over. Press any key to play again!");
+        snakeArr = [{x: 13, y: 15}];
+        musicSound.play();
+        score = 0; 
+    }
+}

@@ -75,4 +75,20 @@ function gameEngine(){
     snakeArr[0].y += inputDir.y;
 
     // Part 2: Display the snake and Food
+
+     // Display the snake
+     board.innerHTML = "";
+     snakeArr.forEach((e, index)=>{
+         snakeElement = document.createElement('div');
+         snakeElement.style.gridRowStart = e.y;
+         snakeElement.style.gridColumnStart = e.x;
+ 
+         if(index === 0){
+             snakeElement.classList.add('head');
+         }
+         else{
+             snakeElement.classList.add('snake');
+         }
+         board.appendChild(snakeElement);
+     });
 }

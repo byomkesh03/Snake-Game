@@ -114,3 +114,8 @@ else{
     hiscoreval = JSON.parse(hiscore);
     hiscoreBox.innerHTML = "HiScore: " + hiscore;
 }
+
+window.requestAnimationFrame(main);
+window.addEventListener('keydown', e =>{
+    inputDir = {x: 0, y: 1} // Start the game
+    moveSound.play();

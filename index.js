@@ -120,3 +120,8 @@ window.addEventListener('keydown', e =>{
     inputDir = {x: 0, y: 1} // Start the game
     moveSound.play();
     switch (e.key) {
+        case "ArrowUp":
+            console.log("ArrowUp");
+            inputDir.x = 0;
+            inputDir.y = -1;
+            break;

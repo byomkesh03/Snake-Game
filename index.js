@@ -92,5 +92,10 @@ function gameEngine(){
          board.appendChild(snakeElement);
      });
 
-     
+// Display the food
+    foodElement = document.createElement('div');
+    foodElement.style.gridRowStart = food.y;
+    foodElement.style.gridColumnStart = food.x;
+    foodElement.classList.add('food')
+    board.appendChild(foodElement);
 }

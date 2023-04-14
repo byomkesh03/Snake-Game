@@ -125,3 +125,9 @@ window.addEventListener('keydown', e =>{
             inputDir.x = 0;
             inputDir.y = -1;
             break;
+
+        case "ArrowDown":
+            console.log("ArrowDown");
+            inputDir.x = 0;
+            inputDir.y = 1;
+            break;

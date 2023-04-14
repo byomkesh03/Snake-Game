@@ -146,3 +146,7 @@ window.addEventListener('keydown', e =>{
 
                 default:
                     break;
+
+    }
+
+});

@@ -98,4 +98,9 @@ function gameEngine(){
     foodElement.style.gridColumnStart = food.x;
     foodElement.classList.add('food')
     board.appendChild(foodElement);
+
+
 }
+
+
+// Main logic starts here

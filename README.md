@@ -51,6 +51,10 @@ Modify the size and appearance of the snake and food by updating the CSS styles.
 Add additional features like power-ups or obstacles to make the game more challenging.
 
 
+Contributing
+Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
+
+
 
 
 

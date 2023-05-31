@@ -18,6 +18,16 @@ You can play the game online by visiting the following link: Snake Game Demo
 
 
 
+Features
+Simple and intuitive gameplay
+Responsive design that works on desktop and mobile devices
+Smooth and fluid controls
+Score tracking to keep track of your progress
+Game over screen with the final score
+Sound effects for added immersion
+
+
+
 
 
 

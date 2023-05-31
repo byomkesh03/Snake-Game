@@ -35,6 +35,14 @@ To run the Snake Game locally on your machine, follow these steps:
 2. Open the 'index.html' file in your preferred web browser.
 
 
+Usage
+Use the arrow keys on your keyboard to control the snake: up, down, left, and right.
+Try to eat the food (represented by red dots) to grow longer.
+Avoid hitting the walls or the snake's own body, as it will result in game over.
+The game ends when the snake collides with the walls or itself.
+After game over, you can restart the game by refreshing the page.
+
+
 
 
 

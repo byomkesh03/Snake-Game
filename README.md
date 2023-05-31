@@ -43,6 +43,14 @@ The game ends when the snake collides with the walls or itself.
 After game over, you can restart the game by refreshing the page.
 
 
+Customization
+Feel free to customize the game according to your preferences. Here are a few suggestions:
+
+Adjust the speed of the snake by changing the update interval in the JavaScript code.
+Modify the size and appearance of the snake and food by updating the CSS styles.
+Add additional features like power-ups or obstacles to make the game more challenging.
+
+
 
 
 

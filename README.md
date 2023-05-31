@@ -30,6 +30,8 @@ Sound effects for added immersion
 Getting Started
 To run the Snake Game locally on your machine, follow these steps:
 
+1. Clone the repository:
+
 
 
 

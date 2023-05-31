@@ -13,6 +13,10 @@ Description
 Snake Game is a classic arcade game where the player controls a snake and tries to eat as much food as possible without hitting the walls or its own body. This version of the game is created using HTML, CSS, and JavaScript.
 
 
+Demo
+You can play the game online by visiting the following link: Snake Game Demo
+
+
 
 
 

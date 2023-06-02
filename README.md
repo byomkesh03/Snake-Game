@@ -27,7 +27,7 @@ Game over screen with the final score
 Sound effects for added immersion
 
 
-Getting Started
+## Getting Started
 To run the Snake Game locally on your machine, follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/snake-game.git
@@ -35,7 +35,7 @@ To run the Snake Game locally on your machine, follow these steps:
 2. Open the 'index.html' file in your preferred web browser.
 
 
-Usage
+## Usage
 Use the arrow keys on your keyboard to control the snake: up, down, left, and right.
 Try to eat the food (represented by red dots) to grow longer.
 Avoid hitting the walls or the snake's own body, as it will result in game over.
@@ -43,7 +43,7 @@ The game ends when the snake collides with the walls or itself.
 After game over, you can restart the game by refreshing the page.
 
 
-Customization
+## Customization
 Feel free to customize the game according to your preferences. Here are a few suggestions:
 
 Adjust the speed of the snake by changing the update interval in the JavaScript code.

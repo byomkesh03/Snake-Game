@@ -55,12 +55,12 @@ Add additional features like power-ups or obstacles to make the game more challe
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
 
 
-Acknowledgments
+## Acknowledgments
 This game is inspired by the classic Snake Game from the Nokia mobile phones.
 Special thanks to the open-source community for providing helpful resources and inspiration.
 
 
-Contact
+###Contact
 If you have any questions or suggestions, feel free to reach out to the project maintainer at your-email@example.com.
 
 Thank you for playing Snake Game! Enjoy the game and have fun!

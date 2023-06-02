@@ -67,7 +67,7 @@ Special thanks to the open-source community for providing helpful resources and 
 
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to the project maintainer at your-email@example.com.
+If you have any questions or suggestions, feel free to reach out to me at byomkeshmahato03@gmail.com.
 
 Thank you for playing Snake Game! Enjoy the game and have fun!
 

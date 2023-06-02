@@ -6,8 +6,8 @@ Snake Game  Using Pure HTML, CSS &amp; JAVASCRIPT
 
 
 
-Snake Game
-Snake Game
+# Snake Game
+ ![Snake Game](./screenshots/Snake-Game.png)
 
 Description
 Snake Game is a classic arcade game where the player controls a snake and tries to eat as much food as possible without hitting the walls or its own body. This version of the game is created using HTML, CSS, and JavaScript.

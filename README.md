@@ -14,7 +14,7 @@ Snake Game is a classic arcade game where the player controls a snake and tries 
 
 
 ## Demo
-You can play the game online by visiting the following link: Snake Game Demo
+You can play the game online by visiting the following link: [here](https://byomkesh03.github.io/Snake-Game/).
 
 
 

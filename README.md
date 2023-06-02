@@ -2,10 +2,6 @@
 Snake Game  Using Pure HTML, CSS &amp; JAVASCRIPT
 
 
-
-
-
-
 # Snake Game
  ![Snake Game](./screenshots/Snake-Game.png)
 
@@ -70,16 +66,6 @@ Special thanks to the open-source community for providing helpful resources and 
 If you have any questions or suggestions, feel free to reach out to me at byomkeshmahato03@gmail.com.
 
 Thank you for playing Snake Game! Enjoy the game and have fun!
-
-
-
-
-
-
-
-
-
-
 
 
 

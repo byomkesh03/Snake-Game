@@ -35,6 +35,12 @@ To run the Snake Game locally on your machine, follow these steps:
 2. Open the 'index.html' file in your preferred web browser.
 
 
+    * Instruction to Play the Game :- 
+    
+         1. Press any key to Play the Game 
+         2. Use ArrowUp, ArrowDown, ArrowLeft, ArrowRight Keys to move the Snake 
+
+
 ## Usage
 Use the arrow keys on your keyboard to control the snake: up, down, left, and right.
 Try to eat the food (represented by red dots) to grow longer.
@@ -82,7 +88,3 @@ Thank you for playing Snake Game! Enjoy the game and have fun!
 
     
     
-    * Instruction to Play the Game :- 
-    
-         1. Press any key to Play the Game 
-         2. Use ArrowUp, ArrowDown, ArrowLeft, ArrowRight Keys to move the Snake 

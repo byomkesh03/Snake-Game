@@ -33,8 +33,8 @@ To run the Snake Game locally on your machine, follow these steps:
 
     * Instruction to Play the Game :- 
     
-         1. Press any key to Play the Game 
-         2. Use ArrowUp, ArrowDown, ArrowLeft, ArrowRight Keys to move the Snake 
+         1. Press any key to Play the Game. 
+         2. Use ArrowUp, ArrowDown, ArrowLeft, ArrowRight Keys to move the Snake. 
 
 
 ## Usage
